@@ -1,0 +1,14 @@
+object somaSuperSimples {
+
+  def main(args: Array[String]): Unit = {
+
+    def somaSuperSimples(a: Int, b: Int): Int = { a + b }
+
+    println(somaSuperSimples(3500,3500))
+
+  
+  }
+
+
+
+}
