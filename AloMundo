@@ -1,0 +1,10 @@
+object AloMundo {
+
+  def main(args: Array[String]): Unit = {
+
+    println("Alô, Mundo!")
+
+  
+  }
+
+}
