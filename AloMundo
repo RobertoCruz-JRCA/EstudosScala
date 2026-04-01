@@ -1,3 +1,6 @@
+
+//Meu primeiro programa em Scala, Recife/PE, 01/04/2026.
+
 object AloMundo {
 
   def main(args: Array[String]): Unit = {
