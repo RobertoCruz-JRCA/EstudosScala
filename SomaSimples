@@ -1,0 +1,19 @@
+
+object Soma {
+
+  def main(args: Array[String]): Unit = {
+
+    val a = 7
+    val b = 3
+    val resultado = a + b
+
+    println(s"$a + $b = $resultado")
+
+
+
+  
+  }
+
+
+
+}
